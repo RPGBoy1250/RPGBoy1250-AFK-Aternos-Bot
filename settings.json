@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tardchaccos.aternos.me",
+    "ip": "sauger.aternos.host:13647",
     "port": 13647,
     "version": "",
     "try-creative": false
